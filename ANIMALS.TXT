@@ -1,0 +1,20 @@
+Dog	I take my <b>[...]</b> for a walk every morning.	I take my dog for a walk every morning.	Common pet, barks	Saco a pasear a mi perro todas las mañanas.
+Cat	The <b>[...]</b> is sleeping on the sofa.	The cat is sleeping on the sofa.	Feline pet, meows	El gato está durmiendo en el sofá.
+Cow	We get milk from a <b>[...]</b>.	We get milk from a cow.	Farm animal, gives milk	Obtenemos leche de una vaca.
+Pig	The <b>[...]</b> is eating in the mud.	The pig is eating in the mud.	Pink farm animal, oinks	El cerdo está comiendo en el lodo.
+Horse	She learned to ride a <b>[...]</b> at the farm.	She learned to ride a horse at the farm.	Large animal used for riding	Ella aprendió a montar a caballo en la granja.
+Sheep	The sweater is made of <b>[...]</b> wool.	The sweater is made of sheep wool.	Woolly farm animal, baas	El suéter está hecho de lana de oveja.
+Chicken	We are having fried <b>[...]</b> for dinner.	We are having fried chicken for dinner.	Farm bird, lays eggs	Vamos a cenar pollo frito.
+Duck	The <b>[...]</b> is swimming in the pond.	The duck is swimming in the pond.	Water bird, quacks	El pato está nadando en el estanque.
+Rabbit	The <b>[...]</b> loves to eat carrots.	The rabbit loves to eat carrots.	Small animal with long ears	Al conejo le encanta comer zanahorias.
+Mouse	The cat caught a <b>[...]</b> in the kitchen.	The cat caught a mouse in the kitchen.	Small rodent, squeaks	El gato atrapó un ratón en la cocina.
+Rat	They saw a big <b>[...]</b> in the subway.	They saw a big rat in the subway.	Large rodent, pest	Vieron una gran rata en el metro.
+Goat	The <b>[...]</b> climbed up the rocky mountain.	The goat climbed up the rocky mountain.	Horned farm animal, bleats	La cabra subió por la montaña rocosa.
+Turkey	We always eat roasted <b>[...]</b> on Thanksgiving.	We always eat roasted turkey on Thanksgiving.	Large bird eaten on holidays	Siempre comemos pavo asado en Acción de Gracias.
+Goose	A wild <b>[...]</b> flew across the sky.	A wild goose flew across the sky.	Large water bird, honks	Un ganso salvaje voló por el cielo.
+Donkey	The farmer used a <b>[...]</b> to carry the heavy bags.	The farmer used a donkey to carry the heavy bags.	Beast of burden, brays	El granjero usó un burro para llevar las bolsas pesadas.
+Hamster	The <b>[...]</b> is running on its wheel.	The hamster is running on its wheel.	Small furry pet, rodent	El hámster está corriendo en su rueda.
+Guinea pig	My sister has a cute <b>[...]</b> as a pet.	My sister has a cute guinea pig as a pet.	Small tailless rodent pet	Mi hermana tiene un lindo conejillo de indias como mascota.
+Bull	The angry <b>[...]</b> chased the farmer.	The angry bull chased the farmer.	Male cow, has horns	El toro enojado persiguió al granjero.
+Mule	He is as stubborn as a <b>[...]</b>.	He is as stubborn as a mule.	Offspring of a horse and donkey	Él es tan terco como una mula.
+Ox	The cart was pulled by a strong <b>[...]</b>.	The cart was pulled by a strong ox.	Working bovine, beast of burden	La carreta fue tirada por un fuerte buey
