@@ -18,3 +18,34 @@ Guinea pig	My sister has a cute <b>[...]</b> as a pet.	My sister has a cute guin
 Bull	The angry <b>[...]</b> chased the farmer.	The angry bull chased the farmer.	Male cow, has horns	El toro enojado persiguió al granjero.
 Mule	He is as stubborn as a <b>[...]</b>.	He is as stubborn as a mule.	Offspring of a horse and donkey	Él es tan terco como una mula.
 Ox	The cart was pulled by a strong <b>[...]</b>.	The cart was pulled by a strong ox.	Working bovine, beast of burden	La carreta fue tirada por un fuerte buey
+
+Bear	We saw a big brown <b>[...]</b> in the forest.	We saw a big brown bear in the forest.	Large furry mammal	Vimos un gran oso pardo en el bosque.
+Lion	The <b>[...]</b> is the king of the jungle.	The lion is the king of the jungle.	Big cat with a mane	El león es el rey de la selva.
+Tiger	A <b>[...]</b> is orange and black.	A tiger is orange and black.	Striped big cat	Un tigre es naranja y negro.
+Elephant	The <b>[...]</b> is very big and has a long nose.	The elephant is very big and has a long nose.	Huge animal with a trunk	El elefante es muy grande y tiene una nariz larga.
+Monkey	The little <b>[...]</b> is climbing the tree.	The little monkey is climbing the tree.	Primate with a tail	El monito está trepando el árbol.
+Giraffe	The <b>[...]</b> has a very long neck to eat leaves.	The giraffe has a very long neck to eat leaves.	Very tall animal	La jirafa tiene un cuello muy largo para comer hojas.
+Zebra	A <b>[...]</b> looks like a horse with black and white stripes.	A zebra looks like a horse with black and white stripes.	Striped horse-like animal	Una cebra parece un caballo con rayas blancas y negras.
+Rhinoceros	The <b>[...]</b> has a big horn on its nose.	The rhinoceros has a big horn on its nose.	Large animal with a horn	El rinoceronte tiene un gran cuerno en su nariz.
+Hippopotamus	The <b>[...]</b> likes to swim in the river.	The hippopotamus likes to swim in the river.	Large water-loving mammal	Al hipopótamo le gusta nadar en el río.
+Wolf	The <b>[...]</b> runs in the forest at night.	The wolf runs in the forest at night.	Wild dog ancestor	El lobo corre en el bosque de noche.
+Fox	The red <b>[...]</b> is a small and fast animal.	The red fox is a small and fast animal.	Small dog-like animal	El zorro rojo es un animal pequeño y rápido.
+Gorilla	The <b>[...]</b> is a very big and strong animal.	The gorilla is a very big and strong animal.	Largest living primate	El gorila es un animal muy grande y fuerte.
+Kangaroo	The <b>[...]</b> can jump very high.	The kangaroo can jump very high.	Hopping Australian animal	El canguro puede saltar muy alto.
+Deer	The <b>[...]</b> is eating grass in the park.	The deer is eating grass in the park.	Animal with antlers	El ciervo está comiendo hierba en el parque.
+Panda	The giant <b>[...]</b> loves to eat bamboo.	The giant panda loves to eat bamboo.	Black and white bear	Al panda gigante le encanta comer bambú.
+Leopard	The <b>[...]</b> can run fast and climb trees.	The leopard can run fast and climb trees.	Spotted big cat	El leopardo puede correr rápido y trepar árboles.
+Cheetah	The <b>[...]</b> is a very fast animal.	The cheetah is a very fast animal.	Fastest running big cat	El guepardo es un animal muy rápido.
+Chimpanzee	The <b>[...]</b> is a very smart animal.	The chimpanzee is a very smart animal.	Highly intelligent ape	El chimpancé es un animal muy inteligente.
+Koala	The <b>[...]</b> sleeps a lot in the trees.	The koala sleeps a lot in the trees.	Tree-dwelling Australian animal	El koala duerme mucho en los árboles.
+Camel	The <b>[...]</b> lives in the hot desert.	The camel lives in the hot desert.	Desert animal with humps	El camello vive en el desierto caliente.
+Raccoon	The <b>[...]</b> is eating our food at night.	The raccoon is eating our food at night.	Mammal with a ringed tail	El mapache se está comiendo nuestra comida de noche.
+Squirrel	The small <b>[...]</b> is eating a nut in the tree.	The small squirrel is eating a nut in the tree.	Small rodent with a bushy tail	La pequeña ardilla está comiendo una nuez en el árbol.
+Skunk	The <b>[...]</b> is black and white and smells bad.	The skunk is black and white and smells bad.	Smelly black and white mammal	El zorrillo es blanco y negro y huele mal.
+Bat	A <b>[...]</b> flies at night and sleeps in the day.	A bat flies at night and sleeps in the day.	Flying mammal	Un murciélago vuela de noche y duerme de día.
+Moose	We saw a big <b>[...]</b> drinking water from the lake.	We saw a big moose drinking water from the lake.	Very large deer	Vimos un gran alce bebiendo agua del lago.
+Buffalo	We saw a big <b>[...]</b> in Africa.	We saw a big buffalo in Africa.	Large wild ox	Vimos un gran búfalo en África.
+Bison	The <b>[...]</b> is a very big animal in America.	The bison is a very big animal in America.	Large American bovine	El bisonte es un animal muy grande en América.
+Coyote	The <b>[...]</b> runs in the desert.	The coyote runs in the desert.	Small wild dog	El coyote corre en el desierto.
+Hyena	The <b>[...]</b> sounds like it is laughing.	The hyena sounds like it is laughing.	Laughing African carnivore	La hiena suena como si se estuviera riendo.
+Antelope	The <b>[...]</b> runs very fast in the grass.	The antelope runs very fast in the grass.	Swift grazing animal	El antílope corre muy rápido en la hierba.
